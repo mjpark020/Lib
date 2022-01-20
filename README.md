@@ -1,12 +1,12 @@
 # Lib
-# Portfolio
+## Portfolio
 [팀프로젝트] Java swing으로 구현한 전자도서관 프로그램입니다
-# 적용한 기술
+## 적용한 기술
 * 언어
   * Java
 * DB
   * Oracle DB 11g
-# 주요 기능
+## 주요 기능
 * 회원가입
 * 회원정보 수정
 * 회원탈퇴
